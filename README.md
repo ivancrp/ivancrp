@@ -8,7 +8,7 @@
 
 💡 Contribuir para que as pessoas tenham experiência boas com produtos de qualidades, Minha paixão por TI está relacionada a criar coisas incríveis e ajudar pessoas nas mais diversas tarefas.
 
- 🔭 Metas para 2021, Minha Formatura e início da minha Pós em Engenharia de Software
+ 
 
 Java e JS, Rect Native
 Cucumber, Selenium, Jmeter, Rest Assured
