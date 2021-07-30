@@ -1,14 +1,20 @@
-# Ivan Alves
 
-
-
-🖖🏼 Oi! Sou Tester e Developer e Musico, eu tento :)
-
-✨ Buscando conhecimento o tempo todo. Meu aprendizado é baseado em observar pessoa mais experiente na área e tentar reproduzir o que é bom não só para mim, mas para a comunidade em geral 
-
-💡 Contribuir para que as pessoas tenham experiência boas com produtos de qualidades, Minha paixão por TI está relacionada a criar coisas incríveis e ajudar pessoas nas mais diversas tarefas.
-
+## Oiii! Eu sou a Ivan Alves 
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivancrp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancrp&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
-
-Java e JS, Rect Native
-Cucumber, Selenium, Jmeter, Rest Assured
+<div style="display: inline_block"><br>
+  <img align="center" alt="Ivan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Ivan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ivan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ivan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ivan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Ivan-Sel" height="30" width="40" src="https://rest-assured.io/img/logo-transparent.png">
+ <img align="center" alt="Ivan-Sel" height="33" width="40" src="https://static1.smartbear.co/cucumber/media/images/logos/icons/cucumber-open-icon.svg">
+   <img align="right" alt="Ivan-yoda" height="120" width="155"  src="https://i.giphy.com/media/krkrHAEodHgzP72rTI/giphy.webp">
+</div>
+  
+  ##
