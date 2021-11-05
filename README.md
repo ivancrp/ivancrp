@@ -1,9 +1,5 @@
 <div>
-
- <div style='position:relative; padding-bottom:calc(50.00% + 44px)'>
-  <img src='https://gfycat.com/ifr/SarcasticLonelyBoutu' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen >
-  
-
+  <img align="right" alt="Ivan-yoda" height="120" width="155"  src="https://gfycat.com/ifr/SarcasticLonelyBoutu">
 </div>
 
 ## Oiii! Eu sou Ivan
