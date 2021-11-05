@@ -1,5 +1,5 @@
 <div>
-  <img align="right" alt="Ivan-yoda" height="120" width="155"  src="https://gfycat.com/ifr/SarcasticLonelyBoutu">
+  <img align="center" alt="Ivan" src="https://gfycat.com/ifr/SarcasticLonelyBoutu">
 </div>
 
 ## Oiii! Eu sou Ivan
