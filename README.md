@@ -1,6 +1,6 @@
 <div>
-  <img align="center" alt="Ivan" src="https://zippy.gfycat.com/SarcasticLonelyBoutu.mp4">
-  <iframe src="https://giphy.com/embed/wkSyGueYTnk40" width="436" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/amazing-random-comics-wkSyGueYTnk40">via GIPHY</a></p>
+  <img align="center" alt="Ivan" src="https://media2.giphy.com/media/wkSyGueYTnk40/giphy.gif?cid=ecf05e47k839me0rjixze1hgiuolu58e3wzdx144kbax5yjb&rid=giphy.gif&ct=g">
+
 </div>
 
 ## Oiii! Eu sou Ivan
