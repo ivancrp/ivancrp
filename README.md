@@ -1,5 +1,7 @@
 <div>
-  <img align="center" alt="Ivan" src="https://media2.giphy.com/media/wkSyGueYTnk40/giphy.gif?cid=ecf05e47k839me0rjixze1hgiuolu58e3wzdx144kbax5yjb&rid=giphy.gif&ct=g">
+  <img align="center" 
+    max-width: 40%;
+ alt="Ivan" src="https://media2.giphy.com/media/wkSyGueYTnk40/giphy.gif?cid=ecf05e47k839me0rjixze1hgiuolu58e3wzdx144kbax5yjb&rid=giphy.gif&ct=g">
 
 </div>
 
