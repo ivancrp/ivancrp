@@ -1,5 +1,5 @@
 <div>
-  <img align="center" alt="Ivan" src="https://cdn.dribbble.com/users/1646023/screenshots/6625629/gamer_800x600.gif">
+  <img align="center" alt="Ivan" src="https://github.com/ivancrp/img/blob/main/gamer_800x600.gif">
 
 </div>
 
