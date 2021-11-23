@@ -1,7 +1,7 @@
 <h1>## Oiii! Eu sou Ivan</h1>
 
 <div>
-  <img align="center"  width="100%"  alt="Ivan" src="https://github.com/ivancrp/img/blob/main/gamer_800x600.gif">
+  <img align="center"  width="60%"  alt="Ivan" src="https://github.com/ivancrp/img/blob/main/gamer_800x600.gif">
 
 </div>
 
