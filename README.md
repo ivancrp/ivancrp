@@ -1,7 +1,7 @@
-<h1 align="center">## Oiii! Eu sou Ivan</h1>
+<h1 align="center">Oiii! Eu sou Ivan</h1>
 
 <div align="center">
-  <img   width="60%"  alt="Ivan" src="https://github.com/ivancrp/img/blob/main/gamer_800x600.gif">
+  <img   width="40%"  alt="Ivan" src="https://github.com/ivancrp/img/blob/main/gamer_800x600.gif">
 
 </div>
 
