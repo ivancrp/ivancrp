@@ -1,14 +1,4 @@
 # 🎮 Welcome to Ivan's Digital Realm 🎮
-
-<div align="center">
-  
-  ```
-  ┌─────────────────────────────────────────────────┐
-  │  🚀 LOADING PROFILE...                         │
-  │  ████████████████████████████████████████ 100% │
-  │  🎯 Connection Established                      │
-  └─────────────────────────────────────────────────┘
-  ```
   
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ivan!+%F0%9F%91%BE;Full+Stack+Developer;Game+Enthusiast;Code+Warrior" alt="Typing SVG" />
   
