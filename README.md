@@ -10,7 +10,7 @@
   └─────────────────────────────────────────────────┘
   ```
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ivan!+%F0%9F%91%BE;Full+Stack+Developer;Game+Enthusiast;Code+Warrior" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ivan!+%F0%9F%91%BE;Full+Stack+Developer;Game+Enthusiast;Code+Warrior" alt="Typing SVG" />
   
   <img width="40%" alt="Ivan Gaming" src="https://github.com/ivancrp/img/blob/main/gamer_800x600.gif">
   
@@ -24,7 +24,7 @@
   
   | 🏆 Achievement | 📊 Stats | 🎮 Current Quest |
   |:---:|:---:|:---:|
-  | ![Profile Views](https://komarev.com/ghpvc/?username=ivancrp&color=00d4aa&style=for-the-badge&label=PROFILE+VIEWS) | ![Years Badge](https://badges.pufler.dev/years/ivancrp?style=for-the-badge&color=00d4aa) | `Learning New Technologies` |
+  | ![Profile Views](https://komarev.com/ghpvc/?username=ivancrp&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS) | ![GitHub followers](https://img.shields.io/github/followers/ivancrp?style=for-the-badge&color=blueviolet) | `Learning New Technologies` |
   
 </div>
 
@@ -34,14 +34,14 @@
 
 <div align="center">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivancrp&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=00D4AA&icon_color=00D4AA&title_color=00D4AA&text_color=FFFFFF"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ivancrp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancrp&layout=compact&langs_count=8&theme=synthwave&bg_color=0D1117&border_color=00D4AA&title_color=00D4AA&text_color=FFFFFF"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivancrp&layout=compact&langs_count=7&theme=dracula"/>
   
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ivancrp&theme=synthwave&background=0D1117&border=00D4AA&stroke=00D4AA&ring=00D4AA&fire=FF6B35&currStreakLabel=00D4AA" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ivancrp&theme=dracula" alt="GitHub Streak" />
 </div>
 
 ---
@@ -89,7 +89,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ivancrp&theme=onestar&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ivancrp&theme=dracula&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
