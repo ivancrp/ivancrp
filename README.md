@@ -4,7 +4,7 @@
  
 </div>
   
-  <img width="100%" alt="Ivan Gaming" src="https://github.com/ivancrp/img/blob/main/gamer_800x600.gif">
+  <img width="50%" alt="Ivan Gaming" src="https://github.com/ivancrp/img/blob/main/gamer_800x600.gif">
   
 </div>
 
