@@ -62,19 +62,6 @@
 ---
 
 ## 🎮 Game Stats & Activities
-
-<div align="center">
-  
-  ```javascript
-  const ivanProfile = {
-    currentLevel: "Mid-Level Developer",
-    experience: "3+ years",
-    specialty: ["Frontend Magic", "Backend Engineering", "Test Automation"],
-    currentlyPlaying: "Building awesome web applications",
-    nextQuest: "Mastering AI/ML technologies",
-    powerUps: ["☕ Coffee", "🎵 Lo-fi Music", "🌙 Night Coding"]
-  };
-  ```
   
 </div>
 
